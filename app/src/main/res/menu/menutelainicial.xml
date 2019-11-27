@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCadastrarEnd"
+        android:title="Cadastrar Endereço"/>
+
+
+    <item
+        android:id="@+id/menuFecharApp"
+        android:title="Fechar"/>
+</menu>

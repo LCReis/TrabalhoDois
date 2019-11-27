@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finans</string>
+    <string-array name="lista_uf">
+        <item>BH</item>
+        <item>SP</item>
+        <item>MG</item>
+        <item>TO</item>
+    </string-array>
+</resources>
